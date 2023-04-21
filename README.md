@@ -8,6 +8,7 @@ Team Members and Datasets:
 - Dylan Feehan djf92@pitt.edu (Education Rates, `notebooks/education.ipynb`)
   - [Educational Attainment for the Population 25 Years and Over Dataset](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/12535b2e-6180-4cdf-b7d8-ec5294259e49)
   - `datasets/education.csv`
+  - The dataset holds, for a large number of neighborhoods, for each level of education K-doctoral, how many people in that neighborhood (that filled out the survey) achieved that level of education as their HIGHEST level of education.
 - Elias Benbourenane elb222@pitt.edu (Crime Rates, `notebooks/crime.ipynb`)
   - [Police Incident Blotter (30 Day) Dataset](https://data.wprdc.org/dataset/police-incident-blotter)
   - `datasets/crime.csv`
