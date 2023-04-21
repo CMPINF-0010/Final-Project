@@ -11,6 +11,7 @@ Team Members and Datasets:
 - Elias Benbourenane elb222@pitt.edu (Crime Rates, `notebooks/crime.ipynb`)
   - [Police Incident Blotter (30 Day) Dataset](https://data.wprdc.org/dataset/police-incident-blotter)
   - `datasets/crime.csv`
+  - The dataset holds all the police incident reports over a 30 day period. At the time of writing, the dataset's dates ranged from 03/04/2023 to 04/03/2023. The information that was used during data processing included: neighbourhood names of incidents and the category description of incidents.
 - Kiernan Devane ktd17@pitt.edu (Public Transport Promptness, `notebooks/transit.ipynb`)
   - [Monthly OTP by Route Dataset](https://data.wprdc.org/dataset/port-authority-monthly-average-on-time-performance-by-route/resource/00eb9600-69b5-4f11-b20a-8c8ddd8cfe7a)
   - `datasets/transit.csv`
