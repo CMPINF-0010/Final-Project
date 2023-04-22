@@ -5,6 +5,7 @@ Team Members and Datasets:
 - ZIRUI LIAO ZIL99@pitt.edu (Aggregate Household Income, `notebooks/Income.ipynb`)
   - [Aggregate Household Income In The Past 12 Months Dataset](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/34842307-0da6-458a-9df3-a09ab3e3a489)
   - `datasets/income.csv`
+  - The dataset provided tons of information about the income of each communities in Pittsburgh. 
 - Dylan Feehan djf92@pitt.edu (Education Rates, `notebooks/education.ipynb`)
   - [Educational Attainment for the Population 25 Years and Over Dataset](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/12535b2e-6180-4cdf-b7d8-ec5294259e49)
   - `datasets/education.csv`
